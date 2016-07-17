@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<routes>
+	<!-- your admin url route :
+		<route url="{url}" module="{module name}" action="{meethod action}" vars="var1,var2" /> -->
+
+	exemple :
+		<route url="Web/admin/" module="Home" action="index" />
+		<route url="Web/admin//Connexions-([a-z]+)-([A-Za-z0-9_]+)-([0-9]+)" module="Connexions" action="Verify" vars="type,name,id" />
+	
+</routes>

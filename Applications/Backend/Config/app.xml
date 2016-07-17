@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<definitions>
+	<!-- the app configuration --> 
+	<!-- example :
+	<define var="news_count" value="5" />
+	<define var="length" value="200" /> -->
+</definitions>
